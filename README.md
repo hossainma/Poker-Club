@@ -1,7 +1,6 @@
 # Poker-Club
 Texas Hold'em source code, Texas Hold'em Poker Club， 德州源码，德州游戏源码，德州扑克源码，德州撲克源碼/德州源碼，有俱樂部(GGclub)+朋友局+聯盟+多個德州遊戲玩法，程式碼穩定，產品成熟，Unity+C++版APP雙端，線上成功運營過版本，支援中文、英文、韓文、泰文、馬來西亞文等多種語言版本。TG：@fox_lovemyself
 邮箱：zyue02561@gmail.com
-![MTT-报名（门票）](https://github.com/user-attachments/assets/3869a35c-3112-42a1-bf71-519f7b2f6db7)
 ![4房间2-6人桌](https://github.com/user-attachments/assets/83310a05-849e-45be-a57c-965d333be427)
 ![3联盟-加入主页 - 副本](https://github.com/user-attachments/assets/8b12375e-5f2b-4d2b-aebe-935d364abfc0)
 ![1管理俱乐部币](https://github.com/user-attachments/assets/6ac568bd-82e0-4505-a14f-6ee511ad365d)
